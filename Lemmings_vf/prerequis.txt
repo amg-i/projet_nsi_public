@@ -1,0 +1,12 @@
+Pour pouvoir jouer a ca jeu, il faut :
+    -un ordinateur;
+    -une manette Xbox;
+    -python:
+    -la librairie inputs (' pip install inputs' pour l'obtenir)
+
+si le jeu est trop dur, appuyer sur select pour passer en mode facile
+    
+
+pour lancer le jeu, executer le programme main.python
+
+en cas de problème, vous pouvez me contacter a l'adresse suivante: alvarez.mathis@ndbellegarde.net
