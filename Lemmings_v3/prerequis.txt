@@ -1,0 +1,18 @@
+Pour pouvoir jouer a ca jeu, il faut :
+    -un ordinateur;
+    -une manette Xbox;
+    -python:
+    -la librairie inputs (' pip install inputs' pour l'obtenir)
+
+Les contrôles:
+    -la touche a permet de placer un lemming
+    -la touche b permet d'avancer dans le temps
+    -la touche x permet de passer au niveau suivant
+    -la touche y permet de quitter le jeu
+
+    -les touches Lb et Rb permettent de changer le points de spawn
+    -la touche Rt change la direction dans laquel le lemming spawn
+
+pour lancer le jeu, executer le programme main.python
+
+en cas de problème, vous pouvez me contacter a l'adresse suivante: alvarez.mathis@ndbellegarde.net
